@@ -1,0 +1,14 @@
+body{
+    display: flex;
+}
+div{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    margin-left: 20px;
+    font-size: 20px;
+    color: white;
+}
+.invisible{
+    display: none;
+}
